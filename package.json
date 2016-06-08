@@ -1,0 +1,18 @@
+{
+  "name": "eventure",
+  "version": "1.0.0",
+  "description": "backend for eventure app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "^2.1.21",
+    "mongoose": "^4.4.20",
+    "node-restful": "^0.2.5"
+  },
+  "author": "Madhav Poudel",
+  "license": "ISC"
+}
