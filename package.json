@@ -9,7 +9,7 @@
   "dependencies": {
     "body-parser": "*",
     "express": "*",
-    "mongodb": "^2.1.21",
+    "mongodb": "^3.6.1",
     "mongoose": "^4.4.20",
     "node-restful": "^0.2.5"
   },
